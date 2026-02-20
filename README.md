@@ -124,7 +124,7 @@ Goal:
 ![Assembly](https://img.shields.io/badge/Assembly-Proficient-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ### ⚙️ Tools & Frameworks
 
-<img src="https://skillicons.dev/icons?i=dotnet,lua,qt,visualstudio,vscode,git,github,linux,windows" />
+<img src="https://skillicons.dev/icons?i=dotnet,qt,visualstudio,vscode,git,github,linux,windows" />
 <br><br>
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
