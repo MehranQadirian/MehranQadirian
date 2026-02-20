@@ -114,7 +114,7 @@ Goal:
 
 ### 🎨 Languages
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,python,assembly" />
+<img src="https://skillicons.dev/icons?i=lua,cs,cpp,c,python,assembly" />
 <br><br>
 
 ![C#](https://img.shields.io/badge/C%23-Expert-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
