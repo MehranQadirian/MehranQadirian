@@ -122,7 +122,6 @@ Goal:
 ![C](https://img.shields.io/badge/C-Expert-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-Proficient-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-Expert-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ### ⚙️ Tools & Frameworks
 
 <img src="https://skillicons.dev/icons?i=dotnet,qt,visualstudio,vscode,git,github,linux,windows" />
@@ -133,7 +132,7 @@ Goal:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ### 🎯 Expertise Areas
 
 <img src="https://img.shields.io/badge/Game_Development-FF6B6B?style=for-the-badge&logo=unity&logoColor=white" />
